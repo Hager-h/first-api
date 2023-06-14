@@ -1,5 +1,6 @@
 // let apikey = "6e35ec85966933fe78031a18b1e94845";
- let apikey="fe4feefa8543e06d4f3c66d92c61b69c"
+ // let apikey="fe4feefa8543e06d4f3c66d92c61b69c"
+  let apikey="e36ed364400282e43250b6c4c0274d44"
 
 // for writed city
 let input = document.querySelector(" .search input");
