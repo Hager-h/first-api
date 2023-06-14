@@ -1,6 +1,5 @@
 // let apikey = "6e35ec85966933fe78031a18b1e94845";
- // let apikey="fe4feefa8543e06d4f3c66d92c61b69c"
-  let apikey="e36ed364400282e43250b6c4c0274d44"
+  let apikey="fe4feefa8543e06d4f3c66d92c61b69c"
 
 // for writed city
 let input = document.querySelector(" .search input");
@@ -82,7 +81,7 @@ function show(data) {
   // for sunrise
   let sunrise = data.current.sunrise;
   let sunset = data.current.sunset;
-  console.log(window.moment(sunrise * 1000).format("HH:mm a"));
+  console.log(moment(sunrise * 1000).format("HH:mm a"));
   //   for sunrise
   suntimeSunset(sunrise, data.timezone_offset);
   let rise =
