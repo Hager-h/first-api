@@ -200,7 +200,8 @@ img {
     -ms-transition             : all 0.5s;
     -o-transition              : all 0.5s;
     width                      : 270px;
-    padding                    : 15px;
+    padding                    : 15px;    background: #fbd7b4;
+
 }
 
 
