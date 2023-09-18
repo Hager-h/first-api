@@ -191,7 +191,6 @@ img {
     -webkit-tap-highlight-color: transparent;
     border-radius              : 23px;
     margin                     : 20px 25px;
-    background                 : #d3c2c2;
     flex-direction             : column;
     border-bottom              : 12px solid #5a4b4b;
     transition                 : all 0.5s;
@@ -200,8 +199,8 @@ img {
     -ms-transition             : all 0.5s;
     -o-transition              : all 0.5s;
     width                      : 270px;
-    padding                    : 15px;    background: #fbd7b4;
-
+    padding                    : 15px;   
+ background: #fbd7b4;
 }
 
 
